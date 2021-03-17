@@ -7,12 +7,6 @@ body {
     width: 100%;
 }
 
-div{
-    border:none;
-    background-image:none;
-    background-color:transparent;
-    box-shadow: none;
-}
 
 div{
     display: flex;
